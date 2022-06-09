@@ -1,0 +1,3 @@
+[submodule "bot_rain_py"]
+	path = bot_rain_py
+	url = https://github.com/Rainbow-Project/bot_rain_py/
